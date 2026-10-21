@@ -1,6 +1,6 @@
 # MM-811-F26-A1-RJB
 
-## Created By: 
+## Created By
 Ryan James Bernal
 
 ## Environment Setup and Dependencies
@@ -27,7 +27,11 @@ There is a folder inside of this project called `GeeksForGeeksExamples`, which u
 
 `q4test.py`: https://www.geeksforgeeks.org/computer-vision/image-generation-using-generative-adversarial-networks-gans/
 
-Each of these `.py` files can be run using the same Python command. These files were used as a baseline to learn about how each model worked and how to implement.
+Each of these `.py` files can be run using the same Python command.
 
-## Copyright
+To run, use `cd GeeksForGeeksExamples` to enter into the directory to run the Python command.
+
+These files were used as a baseline to learn about how each model worked and how to implement.
+
+## Copyright and Usage
 These files are submissions for the MM 811 F26 class at UAlberta. These files are not meant for any use outside of assignment submission.
